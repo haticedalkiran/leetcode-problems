@@ -5,6 +5,7 @@ This repository contains my personal solutions for challenges found on [LeetCode
 ## 📁 Contents
 
 - [Array](./array/)
+- [Sorting and Searching](./sorting-and-searching/)
 
 ## 🎯 Objective
 
