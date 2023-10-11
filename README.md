@@ -4,6 +4,8 @@ This repository contains my personal solutions for challenges found on [LeetCode
 
 ## 📁 Contents
 
+- Array [./array/]
+
 ## 🎯 Objective
 
 The primary goal of this repository is to document and share my approaches to various LeetCode challenges, aiding both my personal growth and helping others who are looking for solutions or different perspectives on the problems.
